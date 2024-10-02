@@ -1,4 +1,4 @@
-package org.example.arrays_linkedlists.stacks_queues.queues;
+package org.example.stacks_queues.queues;
 
 public class Main {
     public static void main(String[] args) {

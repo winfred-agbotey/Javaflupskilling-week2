@@ -1,4 +1,4 @@
-package org.example.arrays_linkedlists.stacks_queues.stacks;
+package org.example.stacks_queues.stacks;
 
 import java.util.Stack;
 
